@@ -1,0 +1,24 @@
+{
+  "name": "bank305-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dont-sniff-mimetype": "^1.1.0",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "mongoose": "^8.5.3",
+    "mongoose-autopopulate": "^1.1.0",
+    "mongoose-timestamp": "^0.6.0",
+    "nocache": "^4.0.0",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "swagger-autogen": "^2.23.7"
+  }
+}
